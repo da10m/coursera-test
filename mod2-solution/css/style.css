@@ -1,5 +1,6 @@
 
 /* Base Styles */
+<style>
 * {
   box-sizing: border-box;
   font-family: Helvetica;
@@ -191,3 +192,4 @@ Mobile view should appear only if the width of the browser is equal to or less t
     width: 100%;
   }
 }
+</style>
