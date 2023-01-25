@@ -1,34 +1,41 @@
 
 /* Base Styles */
 <style>
+
 * {
   box-sizing: border-box;
-  font-family: Helvetica;
 }
 
 h1 {
   margin-bottom: 15px;
   text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  color: #818AA3;
+  font-family: sans-serif;
 }
 
 h2 {
   color: white;
   padding: 0px 5px 0px 5px;
   border: solid 1px black;
-
   position: absolute;
-  top: -20px; /* because padding of section. I don't know if this is the right way to do this haha*/
+  top: -20px; 
   right: 0;
   padding: -20px; 
+  font-family: sans-serif;
 }
 
 .menu-title {
   text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: sans-serif;
 }
 
 p {
-  font-family: Helvetica;
-  color: white;
+  color: #C5DCA0;
+  font-family: sans-serif;
 }
 
 section {
@@ -36,8 +43,8 @@ section {
   margin: 10px;
   background: #3C3741;
   border: solid 1px black;
-
   position: relative;
+  font-family: sans-serif;
 }
 
 .row {
@@ -45,15 +52,18 @@ section {
 }
 
 .chicken {
-  background: red;
+  background: #818AA3;
+  font-family: sans-serif;
 }
 
 .beef {
-  background: blue;
+  background: #818AA3;
+  font-family: sans-serif;
 }
 
 .sushi {
-  background: maroon;
+  background: #818AA3;
+  font-family: sans-serif;
 }
 
 /*
