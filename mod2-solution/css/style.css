@@ -11,14 +11,14 @@ h1 {
   text-align: center;
   font-weight: bold;
   font-size: 24px;
-  color: #818AA3;
+  color: black;
   font-family: sans-serif;
 }
 
 h2 {
   color: white;
   padding: 0px 5px 0px 5px;
-  border: solid 1px black;
+  border: solid 2px black;
   position: absolute;
   top: -20px; 
   right: 0;
@@ -41,7 +41,7 @@ p {
 section {
   padding: 20px; 
   margin: 10px;
-  background: #3C3741;
+  background: black;
   border: solid 1px black;
   position: relative;
   font-family: sans-serif;
@@ -52,17 +52,17 @@ section {
 }
 
 .chicken {
-  background: #818AA3;
+  background: #0E402D;
   font-family: sans-serif;
 }
 
 .beef {
-  background: #818AA3;
+  background: #9EC1A3;
   font-family: sans-serif;
 }
 
 .sushi {
-  background: #818AA3;
+  background: #5A6650;
   font-family: sans-serif;
 }
 
