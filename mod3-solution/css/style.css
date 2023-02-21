@@ -1,0 +1,35 @@
+body { 
+	padding-top: 70px;  
+}
+.menu-title {
+	text-align: center;
+}
+section {
+	background: #065508;
+	
+}
+section h2 {
+	padding-top: 10px;
+}
+section p {
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.menu-title {
+	text-transform: uppercase;
+	color: #fff;
+}
+.menu-description {
+	color: #fff;
+}
+.navbar {
+	background: #065508;
+}
+#brand-title {
+	color: #fff;
+}
+.food-title {
+	color: #fff;
+}
